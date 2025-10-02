@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Robert Stwart" title="👋 Hi there! I'm Robert Stwart"/>
-<div align="justify">
+## I'm👋 Hi there! I'm Robert Stwart
 
 Welcome to my **GitHub**! 🚀  
 I’m a passionate **Senior Software Developer** who loves building clean, scalable, and impactful solutions.  
@@ -13,7 +12,7 @@ I’m a passionate **Senior Software Developer** who loves building clean, scala
 - 🎯 Goal: **[To continuously advance my expertise in modern software engineering practices, focusing on building scalable, secure, and high-performance applications that create real value for users.]**  
 ---
 
-## My favorite tools and technologies ⚙️
+## 🛠️ Tech Stack  ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -138,16 +137,7 @@ I’m a passionate **Senior Software Developer** who loves building clean, scala
  </tr>
 </table>
 
-## 🛠️ Tech Stack  
-**Languages & Tools I Use Most:**  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Blockchain](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
