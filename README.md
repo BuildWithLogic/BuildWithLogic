@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=🌊%20FlowWave%20AI&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn&desc=Dynamic%20Flow%20Design&descAlignY=65&descAlign=50" alt="FlowWave Banner"/>
 </p>
 
-<h1 align="center">🌌 FlowDynamics</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=🌊%20FlowWave%20AI&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn&desc=Dynamic%20Flow%20Design&descAlignY=65&descAlign=50" alt="FlowWave Banner"/>
 </p>
-<p align="center"><em>Where creativity flows into motion.</em></p>
 
 ## 👋 Hi there! I'm Robert Stwart
 
