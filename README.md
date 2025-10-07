@@ -155,9 +155,9 @@ I’m a passionate **Senior Software Developer** who loves building clean, scala
 - 🔹 [**Project One**](https://github.com/BuildWithLogic/pets-workshop) 
 - 🔹 [**Project Two**](https://github.com/BuildWithLogic/metadata)
 - 🔹 [**Project Three**](https://github.com/BuildWithLogic/uikit-swiftui)
-- 🔹 [**Project four**](https://github.com/BuildWithLogic/plagiarism-checker-python)
-- 🔹 [**Project five**](https://github.com/BuildWithLogic/tunnel-client)
-- 🔹 [**Project six**](https://github.com/BuildWithLogic/MERN-E-Commerce-Store )
+- 🔹 [**Project Four**](https://github.com/BuildWithLogic/plagiarism-checker-python)
+- 🔹 [**Project Five**](https://github.com/BuildWithLogic/tunnel-client)
+- 🔹 [**Project Six**](https://github.com/BuildWithLogic/MERN-E-Commerce-Store )
 ---
 
 ## 🤝 Connect With Me  
