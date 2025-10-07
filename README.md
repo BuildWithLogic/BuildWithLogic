@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=🌊%20FlowWave%20AI&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn&desc=Dynamic%20Flow%20Design&descAlignY=65&descAlign=50" alt="FlowWave Banner"/>
 </p>
 
+<h1 align="center">
+  <img src="https://img.shields.io/badge/🌟_FlowAI_-Gradient?style=for-the-badge&logoColor=white&labelColor=0D1117&color=blueviolet" alt="FlowAI Title"/><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Elegant+Flows;AI-Driven+Design;Dynamic+Experience" alt="Typing subtitle"/>
+</h1>
+
 ## 👋 Hi there! I'm Robert Stwart
 
 Welcome to my **GitHub**! 🚀  
