@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=🌊%20FlowWave%20AI&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn&desc=Dynamic%20Flow%20Design&descAlignY=65&descAlign=50" alt="FlowWave Banner"/>
 </p>
 
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66ccff,100:3366ff&height=200&section=header&text=✨%20FlowFX%20✨&fontSize=65&fontColor=ffffff" />
-</h1>
+<img src="https://svg-banners.vercel.app/api?type=textBox&text1=🚀%20SkyNet%20AI&text2=Dynamic%20and%20Powerful&width=850&height=200" />
 
 ## 👋 Hi there! I'm Robert Stwart
 
