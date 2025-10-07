@@ -1,12 +1,10 @@
+<div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=🌊%20FULLSTACK%20DEVELOPER&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn&descAlignY=65&descAlign=50" alt="FlowWave Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=🌊%20I'm%20Robert%20Stwart&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn&descAlignY=65&descAlign=50" alt="FlowWave Banner"/>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Squilliam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web3%20Developer&descAlignY=52&descAlign=56" width="100%"/>
-
   <div style="margin-top: -35px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=800&duration=2000&color=0077B5&center=true&vCenter=true&width=800&height=70&lines=Building+the+decentralized+future;One+block+at+a+time+%F0%9F%9A%80&repeat=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=800&duration=2000&color=0077B5&center=true&vCenter=true&width=800&height=70&linesFULL+STACK+DEVELOPER;BLOCKCHAIN+DEVELOPER+%F0%9F%9A%80&repeat=true" alt="Typing SVG" />
   </div>
 
   <div style="margin-top: 10px;">
@@ -19,9 +17,6 @@
   </div>
 </div>
 
-<h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20FlowFX%20✨&width=800&height=200" fontSize=300 alt="FlowFX Banner" />
-</h1>
 
 ## 👋 Hi there! I'm Robert Stwart
 
