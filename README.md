@@ -2,10 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=🌊%20FlowWave%20AI&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn&desc=Dynamic%20Flow%20Design&descAlignY=65&descAlign=50" alt="FlowWave Banner"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=🌊%20FlowWave%20AI&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn&desc=Dynamic%20Flow%20Design&descAlignY=65&descAlign=50" alt="FlowWave Banner"/>
-</p>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=🌊+FlowDeck;Beautiful+and+Dynamic+UI;Fluid+%26+Responsive+Design" alt="Typing SVG" />
+</h1>
 ## 👋 Hi there! I'm Robert Stwart
 
 Welcome to my **GitHub**! 🚀  
