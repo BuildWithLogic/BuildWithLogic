@@ -19,6 +19,10 @@
   </div>
 </div>
 
+<h1 align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20FlowFX%20✨&width=800&height=200" fontSize=100&alt="FlowFX Banner" />
+</h1>
+
 ## 👋 Hi there! I'm Robert Stwart
 
 Welcome to my **GitHub**! 🚀  
