@@ -1,4 +1,9 @@
+<h1 align="center">🌸 <b>Welcome to Serenity App</b> 🌸</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Made%20with-💖%20Love-pink?style=for-the-badge">
+</p>
 ## 👋 Hi there! I'm Robert Stwart
 
 Welcome to my **GitHub**! 🚀  
