@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=🌊%20FlowWave%20AI&fontAlign=50&fontAlignY=40&fontSize=95&animation=fadeIn&desc=Dynamic%20Flow%20Design&descAlignY=65&descAlign=50" alt="FlowWave Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=🌊%20FlowWave%20AI&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn&desc=Dynamic%20Flow%20Design&descAlignY=65&descAlign=50" alt="FlowWave Banner"/>
 </p>
 
 <h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20I'm%20Rovert%20Stwart%20!%20✨&width=1600&height=400&fontSize=85" alt="FlowFX Banner" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20I'm%20Rovert%20Stwart%20!%20✨&width=1600&height=400&fontAlign=50&fontAlignY=40&fontSize=45" alt="FlowFX Banner" />
 </h1>
 
 ## 👋 Hi there! I'm Robert Stwart
