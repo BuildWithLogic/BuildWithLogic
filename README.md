@@ -4,7 +4,7 @@
 </p>
 
   <div style="margin-top: -35px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=800&duration=2000&color=0077B5&center=true&vCenter=true&width=800&height=70&lines=FULL+STACK+DEVELOPER;BLOCKCHAIN+DEVELOPER+%F0%9F%9A%80&repeat=true" width="100%" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=800&duration=2000&color=0077B5&center=true&vCenter=true&width=800&height=70&lines=FULL+STACK+DEVELOPER;BLOCKCHAIN+DEVELOPER+%F0%9F%9A%80&repeat=true" width="100%" />
   </div>
 </div>
 
