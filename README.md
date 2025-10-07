@@ -155,6 +155,9 @@ I’m a passionate **Senior Software Developer** who loves building clean, scala
 - 🔹 [**Project One**](https://github.com/robertstwart/pets-workshop) 
 - 🔹 [**Project Two**](https://github.com/robertstwart/metadata)
 - 🔹 [**Project Three**](https://github.com/robertstwart/uikit-swiftui)
+- 🔹 [**Project four**](https://github.com/robertstwart/plagiarism-checker-python)
+- 🔹 [**Project five**](https://github.com/robertstwart/tunnel-client)
+- 🔹 [**Project six**](https://github.com/robertstwart/MERN-E-Commerce-Store )
 ---
 
 ## 🤝 Connect With Me  
