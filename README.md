@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20Hello!;I'm Robert Stwart%20✨&width=800&height=200" alt="Robert Stwart" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20Hello! I'm Robert Stwart%20✨&width=800&height=200" alt="Robert Stwart" />
 </h1>
 
 ## 👋 Hi there! I'm Robert Stwart
