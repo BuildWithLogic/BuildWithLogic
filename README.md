@@ -3,8 +3,9 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=🌊+FlowDeck;Beautiful+and+Dynamic+UI;Fluid+%26+Responsive+Design" alt="Typing SVG" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20FlowFX%20✨&width=800&height=200" alt="FlowFX Banner" />
 </h1>
+
 ## 👋 Hi there! I'm Robert Stwart
 
 Welcome to my **GitHub**! 🚀  
