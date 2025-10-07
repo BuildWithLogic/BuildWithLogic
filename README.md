@@ -6,19 +6,7 @@
   <div style="margin-top: -35px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=800&duration=2000&color=0077B5&center=true&vCenter=true&width=800&height=70&lines=FULL+STACK+DEVELOPER;BLOCKCHAIN+DEVELOPER+%F0%9F%9A%80&repeat=true" alt="Typing SVG" />
   </div>
-
-  <div style="margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/williampermuy/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/>
-    </a>
-    <a href="https://williammichaelpermuy.com/">
-      <img src="https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge" alt="Portfolio"/>
-    </a>
-  </div>
 </div>
-
-
-## 👋 Hi there! I'm Robert Stwart
 
 Welcome to my **GitHub**! 🚀  
 I’m a passionate **Senior Software Developer** who loves building clean, scalable, and impactful solutions.  
