@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20HELLO,%60WORLD%20✨&width=1600&height=400&fontSize=80" alt="FlowFX Banner" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=🌊%20FULLSTACK%20DEVELOPER&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn&descAlignY=65&descAlign=50" alt="FlowWave Banner"/>
 </p>
 
