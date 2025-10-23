@@ -9,7 +9,7 @@
 </div>
 
 ## ✨ Welcome to my GitHub ! 🚀  
-I’m a passionate **Senior Software Developer** who loves building clean, scalable, and impactful solutions.  
+I’m a passionate **Senior Software Developer and Blockchain Developer** who loves building clean, scalable, and impactful solutions.  
 
 ---
 
