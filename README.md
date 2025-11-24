@@ -1,8 +1,4 @@
 <div align="center">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=🌊%20I'm%20Julio%20Holden&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn&descAlignY=65&descAlign=50" alt="FlowWave Banner"/>
-</p>
-
   <div style="margin-top: -35px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=800&duration=2000&color=0077B5&center=true&vCenter=true&width=800&height=70&lines=FULL+STACK+DEVELOPER;BLOCKCHAIN+DEVELOPER+%F0%9F%9A%80&repeat=true" alt="Typing SVG"/>
   </div>
@@ -168,8 +164,5 @@ I’m a passionate **Senior Software Developer and Blockchain Developer** who lo
 - 🔹 [**Project Six**](https://github.com/BuildWithLogic/MERN-E-Commerce-Store )
 ---
 
-## 🤝 Connect With Me  
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)  
 
 ---
