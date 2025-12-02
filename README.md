@@ -143,17 +143,6 @@ I’m a passionate **Senior Software Developer and Blockchain Developer** who lo
 
 
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
-
----
-
 ## ✨ Featured Projects  
 
 - 🔹 [**Project One**](https://github.com/BuildWithLogic/pets-workshop) 
