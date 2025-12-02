@@ -1,160 +1,157 @@
 <div align="center">
-
-# 👋 Hi, I'm [Your Name]
-
-### Full Stack & Blockchain Developer
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-**Building the future of Web3 | Crafting scalable full-stack solutions | Smart contract architect**
-
+  <div style="margin-top: -35px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=800&duration=2000&color=0077B5&center=true&vCenter=true&width=800&height=70&lines=FULL+STACK+DEVELOPER;BLOCKCHAIN+DEVELOPER+%F0%9F%9A%80&repeat=true" alt="Typing SVG"/>
+  </div>
 </div>
+
+## ✨ Welcome to my GitHub ! 🚀  
+I’m a passionate **Senior Software Developer and Blockchain Developer** who loves building clean, scalable, and impactful solutions.  
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate Full Stack and Blockchain Developer specializing in building decentralized applications and scalable web solutions. With expertise spanning from frontend frameworks to smart contract development, I bridge the gap between traditional web development and blockchain technology.
-
-```javascript
-const developer = {
-    name: "Your Name",
-    role: "Full Stack & Blockchain Developer",
-    location: "Your Location",
-    expertise: ["Web3", "DeFi", "Smart Contracts", "Full Stack Development"],
-    currentFocus: "Building decentralized applications that matter",
-    openToWork: true
-};
-```
-
-## � Tech lStack
-
-### Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-## 🔥 Featured Projects
-
-### 🌐 DeFi Protocol
-**Decentralized Finance Platform**
-- Built a complete DeFi protocol with lending, borrowing, and yield farming
-- Smart contracts audited and deployed on Ethereum mainnet
-- TVL: $X Million | Users: X,XXX+
-- **Tech**: Solidity, Hardhat, React, Web3.js, The Graph
-
-[View Project](https://github.com/yourusername/defi-protocol) | [Live Demo](https://demo.com)
-
-### 🎨 NFT Marketplace
-**Full-featured NFT Trading Platform**
-- Built scalable NFT marketplace with lazy minting and royalty distribution
-- Integrated IPFS for decentralized storage
-- Supports ERC-721 and ERC-1155 standards
-- **Tech**: Next.js, Solidity, Ethers.js, IPFS, Polygon
-
-[View Project](https://github.com/yourusername/nft-marketplace) | [Live Demo](https://demo.com)
-
-### 💰 Crypto Wallet Dashboard
-**Multi-chain Portfolio Tracker**
-- Real-time portfolio tracking across multiple blockchains
-- Advanced analytics and transaction history
-- Support for 50+ tokens and NFTs
-- **Tech**: React, TypeScript, Node.js, Web3.js, MongoDB
-
-[View Project](https://github.com/yourusername/crypto-dashboard) | [Live Demo](https://demo.com)
-
-### 🏢 Enterprise SaaS Platform
-**B2B Cloud Solution**
-- Microservices architecture serving 10,000+ users
-- Real-time collaboration features
-- Advanced analytics and reporting
-- **Tech**: NestJS, PostgreSQL, Redis, Docker, AWS
-
-[View Project](https://github.com/yourusername/saas-platform)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
-## 🎯 What I'm Working On
-
-- 🔭 Building a cross-chain bridge protocol
-- 🌱 Learning zero-knowledge proofs and zkSNARKs
-- 👯 Looking to collaborate on innovative Web3 projects
-- �  Ask me about Solidity, DeFi, or full-stack development
-- ⚡ Fun fact: I've deployed 50+ smart contracts to mainnet
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Secure Smart Contracts: Best Practices](https://yourblog.com/post1)
-- [Understanding Gas Optimization in Solidity](https://yourblog.com/post2)
-- [Full Stack DApp Development Guide](https://yourblog.com/post3)
-- [The Future of Decentralized Finance](https://yourblog.com/post4)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on innovative projects, especially in the Web3 space. Whether you're looking to build a DApp, need smart contract development, or want to discuss the latest in blockchain technology, feel free to reach out!
-
-- 💼 Open for freelance projects and collaborations
-- 🎓 Available for consulting and technical advisory
-- 🗣️ Speaker at blockchain conferences and meetups
-
-## 📫 Get In Touch
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-
-</div>
-
+## 🌟 About Me  
+- 🔭 Currently working on: ** WeChat Red Envelope Grab Plugin **  
+- 🌱 Learning: **AI tech & Automaition**  
+- 💡 Interested in: **[Web3, Mobile Apps]**  
+- 🎯 Goal: **[To continuously advance my expertise in modern software engineering practices, focusing on building scalable, secure, and high-performance applications that create real value for users.]**  
 ---
 
-<div align="center">
+## 🛠️ Tech Stack  ⚙️
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+> Tools and technologies that I have worked with and am interested in
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+      <br>ASP.NET
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
+      <br>sentry
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
+      <br>Celery
+    </td>
+    <td align="center" width="96">
+        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
+      <br>Docusaurus
+    </td>
+    <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+      <br>Pytest
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
 
-⭐️ From [yourusername](https://github.com/yourusername)
 
-</div>
+
+## ✨ Featured Projects  
+
+- 🔹 [**Project One**](https://github.com/BuildWithLogic/pets-workshop) 
+- 🔹 [**Project Two**](https://github.com/BuildWithLogic/metadata)
+- 🔹 [**Project Three**](https://github.com/BuildWithLogic/uikit-swiftui)
+- 🔹 [**Project Four**](https://github.com/BuildWithLogic/plagiarism-checker-python)
+- 🔹 [**Project Five**](https://github.com/BuildWithLogic/tunnel-client)
+- 🔹 [**Project Six**](https://github.com/BuildWithLogic/MERN-E-Commerce-Store )
+---
+
+
+---
