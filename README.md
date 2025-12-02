@@ -10,7 +10,7 @@ I’m a passionate **Senior Software Developer and Blockchain Developer** who lo
 ---
 
 ## 🌟 About Me  
----
+
 🛠️ Currently Building: High-performance Full-Stack and Blockchain solutions with a focus on real-world scalability and reliability
 
 📚 Actively Learning: Advanced Web3 architecture, distributed computing, cloud engineering, and automation technologies
@@ -18,6 +18,7 @@ I’m a passionate **Senior Software Developer and Blockchain Developer** who lo
 🔍 Professional Interests: Decentralized systems, secure smart contract development, system design, and innovative software products
 
 🎯 Career Mission: To craft secure, efficient, and impactful software that elevates user experiences and advances modern engineering standards
+
 ---
 
 ## 🛠️ Tech Stack  ⚙️
