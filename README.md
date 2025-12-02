@@ -10,10 +10,15 @@ I’m a passionate **Senior Software Developer and Blockchain Developer** who lo
 ---
 
 ## 🌟 About Me  
-- 🔭 Currently working on: ** WeChat Red Envelope Grab Plugin **  
-- 🌱 Learning: **AI tech & Automaition**  
-- 💡 Interested in: **[Web3, Mobile Apps]**  
-- 🎯 Goal: **[To continuously advance my expertise in modern software engineering practices, focusing on building scalable, secure, and high-performance applications that create real value for users.]**  
+- About Me
+
+🛠️ Currently Building: High-performance Full-Stack and Blockchain solutions with a focus on real-world scalability and reliability
+
+📚 Actively Learning: Advanced Web3 architecture, distributed computing, cloud engineering, and automation technologies
+
+🔍 Professional Interests: Decentralized systems, secure smart contract development, system design, and innovative software products
+
+🎯 Career Mission: To craft secure, efficient, and impactful software that elevates user experiences and advances modern engineering standards
 ---
 
 ## 🛠️ Tech Stack  ⚙️
