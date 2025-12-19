@@ -146,17 +146,4 @@ I’m a passionate **Senior Software Developer and Blockchain Developer** who lo
  </tr>
 </table>
 
-
-
-## ✨ Featured Projects  
-
-- 🔹 [**Project One**](https://github.com/BuildWithLogic/pets-workshop) 
-- 🔹 [**Project Two**](https://github.com/BuildWithLogic/metadata)
-- 🔹 [**Project Three**](https://github.com/BuildWithLogic/uikit-swiftui)
-- 🔹 [**Project Four**](https://github.com/BuildWithLogic/plagiarism-checker-python)
-- 🔹 [**Project Five**](https://github.com/BuildWithLogic/tunnel-client)
-- 🔹 [**Project Six**](https://github.com/BuildWithLogic/MERN-E-Commerce-Store )
----
-
-
 ---
